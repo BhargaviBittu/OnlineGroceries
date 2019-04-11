@@ -1,2 +1,2 @@
 # OnlineGroceries
-Online Grocery shoppin
+Online Grocery shopping
